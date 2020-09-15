@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <body> 
+      <h1><center>Practice one</center></h1>
+      <p>In 1945, German inventor Konrad Zuse started making the Plan Calculus. It was the first programming language that used algorithms, according to the Computer History Museum. This was a main form of translation during the time and is still to this day. Although modern languages don’t resemble it in many ways, today’s programs continue to use these algorithms. Zuse also created the first programmatic digital computer during the 1940s. Which is weird because he did but it was a worse design and we invented a better one but it was like a year or 2 after this one. A mathematician named Grace Hopper invented the original word-based programming language in 1953. Unlike Plan Calculus, it let programmers control computers by entering phrases that looked like English sentences. This allowed them to have more power but like I said earlier we already made this. Hopper initially called this language “A-0,” but its name later changed to COBOL. 
+</p>
+      <div>
+        <p>
+          Lawrence Roberts created and published his plan for the first computer network in 1967. He called for the system to use efficient packet-switching technology, according to the New Media Institute. The switching concept was originally examined by Leonard Kleinrock, a researcher at MIT. Roberts’ paper helped make it possible to establish ARPANET two years later. Computer scientists installed the initial node at a university in Los Angeles. The network eventually expanded to link computers at four colleges in California and Utah. Today, schools and businesses still use networks that incorporate some of ARPANET’s technology.
+        </p>
+      </div>
+      <div>
+        <p>
+          Compact computing equipment began to enter homes and small businesses during the 1970s. John Blankenbaker developed the original personal computer in 1971 and built it in his garage. The Kenbak-1 cost $750 and used switches rather than a keyboard. Its memory could hold just 256 characters. Customers only ordered 40 units before Blankenbaker discontinued it. Unlike modern PCs, his device lacked a microprocessor. The Micral N became the first personal computer to incorporate this space-saving technology. This $1,700 French unit went into production in 1973, the year when Kenbak went out of business.
+        </p>
+      </div>
+    </body>
+  </head>
+</html>
